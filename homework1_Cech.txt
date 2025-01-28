@@ -1,2 +1,3 @@
 Hi! My name is Kyle Cech and I'm a junior majoring in environmental science and Spanish. Today 
 is 1/28/25.
+This week we are learning about Python and Git basics.
